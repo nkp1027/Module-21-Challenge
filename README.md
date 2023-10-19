@@ -9,6 +9,10 @@ The following shows a compiled contract of KaseiCoin.
 
 ![kaseicoincompiled](https://github.com/nkp1027/Module-21-Challenge/assets/133065472/4e92036c-0c6a-440d-bcfb-af609ce4e575)
 
+This shows the compiled KaseiCoinCrowdsale before the deployer.
+
+![kaseicrowdsalecompiled](https://github.com/nkp1027/Module-21-Challenge/assets/133065472/34c5c234-b638-4f1f-aa5e-75284ba2b245)
+
 This shows the compilation of the KaseiCoinCrowdsale contract.
 
 ![kaseicoincrowdsaledeployercompiled](https://github.com/nkp1027/Module-21-Challenge/assets/133065472/12f22ef5-08e6-4c53-a347-d84da4fd7a4e)
